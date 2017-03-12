@@ -7,7 +7,7 @@ LABEL org.freenas.interactive="false" \
       org.freenas.web-ui-protocol="https" \
       org.freenas.web-ui-port="7443" \
       org.freenas.web-ui-path="manage" \
-      org.freenas.port-mappings="7443:7443/tcp, 7445:7445/tcp, 7446:7446,tcp, 7447:7447/tcp, 7080:7080/tcp, 6666:6666/tcp" \
+      org.freenas.port-mappings="7443:7443/tcp,7445:7445/tcp,7446:7446/tcp,7447:7447/tcp,7080:7080/tcp,6666:6666/tcp" \
       org.freenas.volumes="[                        \
           {                             \
               \"name\": \"/var/lib/unifi-video\",                    \
