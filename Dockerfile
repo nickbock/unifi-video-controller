@@ -12,11 +12,11 @@ LABEL org.freenas.interactive="false" \
           {                             \
               \"name\": \"/var/lib/unifi-video\",                    \
               \"descr\": \"UniFi Configuration Data\"           \
-          },
+          },    \
           {                             \
               \"name\": \"/var/log/unifi-video\",                    \
               \"descr\": \"UniFi Logs\"           \
-          },
+          },    \
                             \
           {                             \
               \"name\": \"/usr/lib/unifi-video/data/videos\",                    \
